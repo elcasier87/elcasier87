@@ -1,16 +1,25 @@
-## Hi there 👋
+Hola 👋 Soy Casimiro
 
-<!--
-**elcasier87/elcasier87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Arquitecto con más de 10 años de experiencia que decidió reinventarse como desarrollador Full Stack.
 
-Here are some ideas to get you started:
+Actualmente busco mi primera oportunidad como desarrollador Junior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías
+
+☕ Java
+🌱 Spring Boot
+🅰️ Angular
+🐘 PHP
+🗄️ MySQL
+⚡ JavaScript
+🎨 HTML & CSS
+
+Proyectos destacados
+
+🚀 WaxWise (en desarrollo)
+💬 OpenWA Chat
+🍽️ Nutrigo
+🎵 La Casa Inquieta
+
+LinkedIn
+Portfolio
