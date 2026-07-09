@@ -78,6 +78,19 @@ Landing page desarrollada para un bar con música en directo, diseñada para ofr
 
 ---
 
+## 🤝 Lo que aporto
+
+Mi experiencia como arquitecto me ha permitido desarrollar habilidades que hoy aplico al desarrollo de software:
+
+- Gestión de proyectos.
+- Trabajo en equipo.
+- Resolución de problemas complejos.
+- Organización y planificación.
+- Comunicación con clientes.
+- Atención al detalle.
+  
+---
+
 ## 🎯 Objetivo profesional
 
 Busco mi primera oportunidad como **Desarrollador Full Stack Junior**, donde pueda aportar, aprender de profesionales con experiencia y seguir creciendo tanto a nivel técnico como personal.
