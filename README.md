@@ -88,7 +88,7 @@ Busco mi primera oportunidad como **Desarrollador Full Stack Junior**, donde pue
 
 📧 **casimiroarocahenares@gmail.com**
 
-💼 **LinkedIn:** *(añade aquí el enlace a tu perfil)*
+💼 **https://www.linkedin.com/in/casarohen/**
 
 ---
 
