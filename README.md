@@ -34,6 +34,7 @@ He finalizado el ciclo de **Desarrollo de Aplicaciones Web (DAW)** y actualmente
 - GitHub Desktop
 - Docker
 - Visual Studio Code
+- Postman
 - XAMPP
 - MySQL Workbench
 - WordPress
